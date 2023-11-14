@@ -6,3 +6,6 @@ Using Euler's method to compose order 2n magic square, we can work backward and 
 Still needs to sample CW, transpose and transpose with both rotations. Python times out at 2n > 6. Perhaps fortran.
 
 ![figure 13](CCW/Figure_13.png)
+13th generated generator
+
+![](untitled.png)
