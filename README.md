@@ -8,4 +8,4 @@ Still needs to sample CW, transpose and transpose with both rotations. Python ti
 ![figure 13](CCW/Figure_13.png)
 13th generated generator
 
-![](untitled.png)
+![](Untitled.png)
